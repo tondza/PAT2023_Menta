@@ -19,6 +19,8 @@ This repository contains a collection of Jupyter notebooks, data files, and repo
 ### Data
 - `/DASS dataset`: Contains the `filtered_data_newfeatures.csv` file which is the cleaned and preprocessed version of the DASS dataset used for the analyses.
 
+The original dataset was acquired from: https://www.kaggle.com/datasets/lucasgreenwell/depression-anxiety-stress-scales-responses
+
 ### Reports
 - `HW08_report.pdf`: A early stage report describing the planned methodology, analysis steps, and resource distribution.
 - `Mental health data science - project report.pdf`: The final project report, describing the all the preprocessing steps and data analyses, as well as background.
